@@ -1,4 +1,6 @@
-BookmarkForLater
+Bookmark For Later
 ================
 
-Chrome Extension to bookmark a link for later reading
+Extension for Chrome to add a context menu item for hyperlinks to add them to a specified bookmarks folder. 
+
+Creates default Bookmark folder called "Bookmarked For Later" using the text of the link for the title.
